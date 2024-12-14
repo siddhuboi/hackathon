@@ -1,0 +1,35 @@
+.imagebg{
+    align-content: center;
+    background-image: url(https://pub-static.fotor.com/assets/bg/ca5fa97f-7696-414b-bc87-9b5205b27575.jpg);
+    background-repeat: no-repeat;
+    align-items: center;
+
+}
+body{
+    background-color: white;
+    background-image:url(https://cdn.pixabay.com/photo/2020/08/23/09/46/classroom-5510382_640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.nav navbar-nav{
+    position: fixed;
+}
+.btnn{
+    margin-top: 27%;
+    margin-left: 45%;
+    align-items: center;
+    display: inline-block;
+    color: rgb(244, 246, 249);
+    background-color: rgb(0, 0, 0);
+    font-size: 18px;
+    padding: 13px 20px;
+    border: none;
+}
+.course a:link{
+    text-decoration: none;
+}
+h1{
+    color: aliceblue;
+    
+}
